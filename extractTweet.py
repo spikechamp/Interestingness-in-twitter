@@ -5,10 +5,7 @@ import re
 # consumer_secret = "kos**********************************kaVR6KyC9dfejVRqSQqYLipRMN6nZaoYwCKw4EG"
 # access_key = "44149913-Y**13c67tT8ID*********************OB3MDCU6"
 # access_secret = "yzKFo3uHim1fzR0eW4udIuYiTD2yH****************************8BN"
-consumer_key = "28JSn80k7NYA3iOz6sq6GDavr"
-consumer_secret = "kos8IMmTPa2kaVR6KyC9dfejVRqSQqYLipRMN6nZaoYwCKw4EG"
-access_key = "44149913-YQ29wDZ13c67tT8IDrWSUkVBDTkaqyMuoOB3MDCU6"
-access_secret = "yzKFo3uHim1fzBlAIaMrVa0E5WnR0eW4udIuYiTD2yHBN"
+
 
 def get_all_tweets(screen_name):
 	#initialize tweepy
